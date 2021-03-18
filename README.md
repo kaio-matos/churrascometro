@@ -2,6 +2,8 @@
 
 Projeto proposto para usarmos HTML, CSS e JS para calcularmos o quanto de carne, bebida e frango precisamos para fazer um churrasco.
 
+[Site](https://kaio-matos.github.io/churrascometro/)
+
 ### Tela inicial
 
 ![image](./README/churrascometro-state-0.png)
